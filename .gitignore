@@ -1,0 +1,15 @@
+# PowerShell
+*.bak
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
